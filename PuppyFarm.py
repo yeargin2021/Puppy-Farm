@@ -19,3 +19,6 @@ class Puppy:
 Willie = Puppy("Willie", "Beagle", "Brown and White", "Happy")
 
 Willie.meetYourPuppy()
+
+# Output:
+# This is Willie, a brown and white Beagle with a happy disposition.
